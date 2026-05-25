@@ -122,10 +122,8 @@ Returns model performance statistics.
 - **Frontend:** Vanilla HTML/CSS/JS
 - **Fonts:** Orbitron, Rajdhani, Share Tech Mono
 
-## ⚠️ Disclaimer
-
-This tool is for **educational purposes**. In production, use it alongside dedicated email security gateways, SPF/DKIM/DMARC, and multi-layered threat detection systems.
+ 
 
 ---
 
-Made with ❤️ and 🔴 by PhishGuard
+Made by : Vishal Jangid
